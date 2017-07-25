@@ -1,0 +1,9 @@
+*/target/**
+*/target-eclipse/**
+*sasc.log*
+/target/
+/.classpath
+.idea
+*.iml
+.slcache/
+*.log
